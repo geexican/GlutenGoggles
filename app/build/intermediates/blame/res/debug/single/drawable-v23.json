@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

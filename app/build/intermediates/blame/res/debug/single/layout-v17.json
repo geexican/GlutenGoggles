@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/layout-v17/activity_main.xml",
+        "source": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/src/main/res/layout-v17/activity_main.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/layout-v17/activity_main.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/src/main/res/layout-v17/activity_main.xml"
+    }
+]

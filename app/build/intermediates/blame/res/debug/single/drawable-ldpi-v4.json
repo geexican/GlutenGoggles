@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/geexican/.android/build-cache/922113d09d972fbda4c1ce73fa540cc66c9a611b/output/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    }
+]

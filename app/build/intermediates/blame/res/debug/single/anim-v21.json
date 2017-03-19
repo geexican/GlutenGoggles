@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/geexican/.android/build-cache/444bb3a222c6cd9e8ee5974b5f3131e7cfafa866/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/geexican/.android/build-cache/444bb3a222c6cd9e8ee5974b5f3131e7cfafa866/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/geexican/.android/build-cache/444bb3a222c6cd9e8ee5974b5f3131e7cfafa866/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

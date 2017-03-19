@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/geexican/.android/build-cache/444bb3a222c6cd9e8ee5974b5f3131e7cfafa866/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/geexican/Desktop/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/geexican/.android/build-cache/5f2d40cd80ae64bc68898fe5db46d43822618789/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

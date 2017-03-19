@@ -1,0 +1,7 @@
+#Sun Mar 19 16:22:22 CST 2017
+base.0=/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_53b2db2c28dc60da4fec6956450986c3290be817
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2717117087c4822c6e343cc36aa6cc02a5eaf532/classes.dex
+base.1=/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2717117087c4822c6e343cc36aa6cc02a5eaf532
+file.0=/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_53b2db2c28dc60da4fec6956450986c3290be817/classes.dex
