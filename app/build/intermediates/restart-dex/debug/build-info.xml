@@ -2,71 +2,35 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="25"
-    build-mode="FULL"
+    build-mode="HOT_WARM"
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489963088590"
+    timestamp="1489976715818"
     token="-7212871051118856530"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="487" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="301" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="78" />
     <task
         name="verifier"
-        duration="0" />
+        duration="39" />
 
     <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1489963088590"
+        timestamp="1489976665780"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
         <artifact
             location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
@@ -98,8 +62,19 @@
             location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
+            location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489976715818"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

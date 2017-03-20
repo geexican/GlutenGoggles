@@ -100,9 +100,9 @@ public class MainActivity extends Activity implements View.OnClickListener {
             if (resultCode == CommonStatusCodes.SUCCESS) {
                 if (data != null) {
                     String text = data.getStringExtra(OcrCaptureActivity.TextBlockObject);
-                    String beer = "red bridge";
+                    String beer = "redbridge";
                     statusMessage.setText(R.string.ocr_success);
-                    if (text.toLowerCase().contains(beer.toLowerCase())) {text="red bridge: Gluten Free!";}
+                    if (text.toLowerCase().contains(beer.toLowerCase())) {text="redbridge: Gluten Free!";}
                     textValue.setText(text);
                     Log.d(TAG, "Text read: " + text);
                 } else {
