@@ -1,4 +1,4 @@
-#Mon Mar 20 17:45:30 CST 2017
+#Tue Mar 21 20:40:10 CST 2017
 base.0=/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_53b2db2c28dc60da4fec6956450986c3290be817
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -17,6 +17,7 @@
 package com.google.android.gms.samples.vision.ocrreader;
 
 import android.content.Intent;
+import android.database.Cursor;
 import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;
@@ -99,12 +100,26 @@ public class MainActivity extends Activity implements View.OnClickListener {
         if(requestCode == RC_OCR_CAPTURE) {
             if (resultCode == CommonStatusCodes.SUCCESS) {
                 if (data != null) {
-                    String text = data.getStringExtra(OcrCaptureActivity.TextBlockObject);
-                    String beer = "redbridge";
+                    DatabaseTable db = new DatabaseTable(this);
+                    String result;
+                    String beer = null;
+                    String text = data.getStringExtra(OcrCaptureActivity.TextBlockObject).replaceAll("'","");
+                    String lines[] = text.split("\\r?\\n");
+
                     statusMessage.setText(R.string.ocr_success);
-                    if (text.toLowerCase().contains(beer.toLowerCase())) {text="redbridge: Gluten Free!";}
-                    textValue.setText(text);
+                    Log.d(TAG,"Broken text is: " + lines);
                     Log.d(TAG, "Text read: " + text);
+                    // query db for beer
+                    Cursor c = db.getWordMatches(text.replaceAll("'",""), null);
+
+                    if (c == null) {
+                        result = "not in DB";
+                        textValue.setText("I read: " + text + "\n" + result);
+                    } else {
+                        beer = c.getString(0);
+                        result = c.getString(1);
+                        textValue.setText("I read: " + beer + "\n" + result);
+                    }
                 } else {
                     statusMessage.setText(R.string.ocr_failure);
                     Log.d(TAG, "No Text captured, intent data is null");

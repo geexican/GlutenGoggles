@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Mar 20 17:45:26 CST 2017
+#Mon Mar 20 18:35:41 CST 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/geexican/AndroidStudioProjects/GlutenGoggles/app/build/intermediates/res/resources-debug.ap_/res/drawable/common_google_signin_btn_text_dark.xml
